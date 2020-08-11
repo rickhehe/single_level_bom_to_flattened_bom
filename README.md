@@ -1,6 +1,6 @@
 What is a flattened BOM?
 
-"Think of a flattened BOM as a list of all the parts from all levels of your BOM listed together and the aggregate total quantities for each part are shown. It¡¯s a great way to see the quantities of ALL Parts (no matter what level of the BOM they appear) with their summed quantities." ( https://help.openbom.com/2018/09/08/bom-single-level-multi-level-flattened/ )
+"Think of a flattened BOM as a list of all the parts from all levels of your BOM listed together and the aggregate total quantities for each part are shown. It's a great way to see the quantities of ALL Parts (no matter what level of the BOM they appear) with their summed quantities." ( https://help.openbom.com/2018/09/08/bom-single-level-multi-level-flattened/ )
 
 Let's say you have a product a0, consists of 3 sub-assemblies, b1, b2 and b3. And you stroe the single level bom of a0 as a0.csv . 
 
