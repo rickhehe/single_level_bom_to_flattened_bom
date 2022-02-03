@@ -42,3 +42,7 @@ In summary you have 4 csv files, or single-level boms, as input, this tool will 
                    c1     d2           8
 
 If you have a customer, internal or external, who would like a dashboard built on excel spreadsheet (what a supprise) to show and/ or estimate raw material usage, this could easily be integreted using Power Query.
+
+In production (e.g. material usage calculation), you may also need to take other factors such as UoM into consideration.
+
+I may reactivate the Matrix BoM repo at some stage.
